@@ -262,8 +262,7 @@
               "RelativeToolTip": "src\\WebApi\\ExtensionsMiddleware.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:11:05.105Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T14:11:05.105Z"
             },
             {
               "$type": "Document",
@@ -275,8 +274,7 @@
               "RelativeToolTip": "src\\WebApi\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-01T21:29:06.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T21:29:06.67Z"
             },
             {
               "$type": "Document",
@@ -288,8 +286,7 @@
               "RelativeToolTip": "src\\WebApi\\Modules\\RouteRegister.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:05:44.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:05:44.141Z"
             },
             {
               "$type": "Document",
@@ -301,8 +298,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Services\\JwtProvider.cs",
               "ViewState": "AgIAAAwAAAAAAAAAAAAuwBcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T14:27:22.521Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T14:27:22.521Z"
             },
             {
               "$type": "Document",
@@ -314,8 +310,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Options\\JwtOptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T21:39:06.386Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T21:39:06.386Z"
             },
             {
               "$type": "Document",
@@ -327,8 +322,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Application\\Employees\\EmployeeGetAllQuery.cs",
               "ViewState": "AgIAABQAAAAAAAAAAAA1wBgAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T19:25:55.21Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:25:55.21Z"
             },
             {
               "$type": "Document",
@@ -340,8 +334,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Domain\\Abstractions\\Entity.cs",
               "ViewState": "AgIAAB4AAAAAAAAAAAA9wCMAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:58:25.429Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:58:25.429Z"
             },
             {
               "$type": "Document",
@@ -353,8 +346,7 @@
               "RelativeToolTip": "src\\WebApi\\ExceptionHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-03T16:46:36.927Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-03T16:46:36.927Z"
             },
             {
               "$type": "Document",
@@ -366,8 +358,7 @@
               "RelativeToolTip": "src\\WebApi\\Program.cs",
               "ViewState": "AgIAACQAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T19:04:54.94Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:04:54.94Z"
             },
             {
               "$type": "Document",
@@ -377,7 +368,7 @@
               "RelativeDocumentMoniker": "README.md",
               "ToolTip": "C:\\Users\\Ozan\\Desktop\\AspNetProjects\\CleanArchitecture\\README.md",
               "RelativeToolTip": "README.md",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
               "WhenOpened": "2025-03-25T19:10:31.538Z",
               "EditorCaption": ""
@@ -392,8 +383,7 @@
               "RelativeToolTip": "src\\Infrastructure\\Context\\ApplicationDbContext.cs",
               "ViewState": "AgIAADEAAAAAAAAAAAAgwCsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:02:22.276Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:02:22.276Z"
             },
             {
               "$type": "Document",
@@ -405,8 +395,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Application\\Employees\\EmployeeCreateCommand.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAA7wDIAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-25T19:25:12.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-25T19:25:12.673Z"
             },
             {
               "$type": "Document",
@@ -418,8 +407,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Domain\\Emplooyes\\Address.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:36:58.104Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:36:58.104Z"
             },
             {
               "$type": "Document",
@@ -431,8 +419,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Domain\\Emplooyes\\Employee.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:36:59.591Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:36:59.591Z"
             },
             {
               "$type": "Document",
@@ -444,8 +431,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Domain\\Emplooyes\\PersonelInformation.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T12:58:34.343Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T12:58:34.343Z"
             },
             {
               "$type": "Document",
@@ -457,8 +443,7 @@
               "RelativeToolTip": "src\\WebApi\\Controllers\\AppODataController.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAwwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:04:11.958Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:04:11.958Z"
             },
             {
               "$type": "Document",
@@ -470,8 +455,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Domain\\Users\\AppUser.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:09:13.399Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:09:13.399Z"
             },
             {
               "$type": "Document",
@@ -483,8 +467,7 @@
               "RelativeToolTip": "src\\WebApi\\Modules\\EmployeeModule.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAABRAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-28T13:05:41.834Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-28T13:05:41.834Z"
             },
             {
               "$type": "Document",
@@ -496,8 +479,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Application\\Employees\\EmployeegetQuery.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAABGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:33:11.501Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T22:33:11.501Z"
             },
             {
               "$type": "Document",
@@ -509,8 +491,7 @@
               "RelativeToolTip": "src\\CleanArchitecture.Domain\\Abstractions\\EntityDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-01T22:41:31.084Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-01T22:41:31.084Z"
             },
             {
               "$type": "Document",
