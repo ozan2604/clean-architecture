@@ -18,7 +18,8 @@ namespace CleanArchitecture.Application.Employees
         DateOnly BirthOfDate,
         decimal Salary,
         PersonelInformation PersonelInformation,
-        Address? Address): IRequest<Result<string>>;  //taner saydam Hocanın result patterını - nuget pacjage kullanarak geriye string döndürdük
+        Address? Address,
+        bool IsActive): IRequest<Result<string>>;  //taner saydam Hocanın result patterını - nuget pacjage kullanarak geriye string döndürdük
 
     public sealed class EmployeeCreateCommandValidator : AbstractValidator<EmployeeCreateCommand>
     {

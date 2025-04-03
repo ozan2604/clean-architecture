@@ -111,3 +111,4 @@ C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.App
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.AppHost\obj\Debug\net9.0\CleanArchitecture.AppHost.pdb
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.AppHost\obj\Debug\net9.0\CleanArchitecture.AppHost.genruntimeconfig.cache
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.AppHost\obj\Debug\net9.0\ref\CleanArchitecture.AppHost.dll
+C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.AppHost\obj\Debug\net9.0\CleanArchitecture.AppHost.sourcelink.json

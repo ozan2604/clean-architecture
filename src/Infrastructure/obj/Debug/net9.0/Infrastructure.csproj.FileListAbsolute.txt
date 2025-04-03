@@ -37,3 +37,4 @@ C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\Infrastructure\obj\De
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\Infrastructure\obj\Debug\net9.0\Infrastructure.pdb
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\Infrastructure\obj\Debug\net9.0\Infrastructure.genruntimeconfig.cache
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\Infrastructure\obj\Debug\net9.0\ref\Infrastructure.dll
+C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\Infrastructure\obj\Debug\net9.0\Infrastructure.sourcelink.json

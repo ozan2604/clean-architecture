@@ -1,5 +1,32 @@
 [
   {
+    "ContainingType": "WebApi.Modules.AuthModule\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterAuthRoutes\u003Eb__0_0",
+    "RelativePath": "auth/login",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "CleanArchitecture.Application.Auth.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TS.Result.Result\u00601[[CleanArchitecture.Application.Auth.LoginCommandResponse, CleanArchitecture.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Auth"
+    ]
+  },
+  {
     "ContainingType": "WebApi.Modules.EmployeeModule\u002B\u003C\u003Ec",
     "Method": "\u003CRegisterEmployeeRoutes\u003Eb__0_0",
     "RelativePath": "employees/",
@@ -16,6 +43,33 @@
     "ReturnTypes": [
       {
         "Type": "TS.Result.Result\u00601[[System.String, System.Private.CoreLib, Version=9.0.0.0, Culture=neutral, PublicKeyToken=7cec85d7bea7798e]]",
+        "MediaTypes": [
+          "application/json"
+        ],
+        "StatusCode": 200
+      }
+    ],
+    "Tags": [
+      "Employees"
+    ]
+  },
+  {
+    "ContainingType": "WebApi.Modules.EmployeeModule\u002B\u003C\u003Ec",
+    "Method": "\u003CRegisterEmployeeRoutes\u003Eb__0_1",
+    "RelativePath": "employees/",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "TS.Result.Result\u00601[[CleanArchitecture.Domain.Emplooyes.Employee, CleanArchitecture.Domain, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "application/json"
         ],

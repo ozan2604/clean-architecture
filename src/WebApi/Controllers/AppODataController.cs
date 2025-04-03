@@ -1,5 +1,6 @@
 ﻿using CleanArchitecture.Application.Employees;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.OData.Query;
 using Microsoft.AspNetCore.OData.Routing.Controllers;
@@ -11,8 +12,9 @@ namespace WebApi.Controllers
     [Route("odata")]
     [ApiController]
     [EnableQuery]
-    public class AppODataController(ISender sender
-        ) : ODataController
+    // [Authorize("Bearer")]    her sınıfa zorunlu yazsın dersen programcsde RequireAuthorization() ekle
+    public class AppODataController(
+        ISender sender) : ODataController
     {
 
         public static IEdmModel GetEdmModel()

@@ -23,3 +23,4 @@ C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.Ser
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.ServiceDefaults\obj\Debug\net9.0\refint\CleanArchitecture.ServiceDefaults.dll
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture.ServiceDefaults.pdb
 C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.ServiceDefaults\obj\Debug\net9.0\ref\CleanArchitecture.ServiceDefaults.dll
+C:\Users\Ozan\Desktop\AspNetProjects\CleanArchitecture\src\CleanArchitecture.ServiceDefaults\obj\Debug\net9.0\CleanArchitecture.ServiceDefaults.sourcelink.json

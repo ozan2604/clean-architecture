@@ -9,6 +9,10 @@ using WebApi.Controllers;
 using WebApi.Modules;
 
 var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddResponseCompression(OPT =>
+{
+    OPT.EnableForHttps = true;
+});
 
 builder.AddServiceDefaults();
 builder.Services.AddApplicationService();
@@ -36,6 +40,8 @@ builder.Services.AddControllers().AddOData(opt =>
 
 builder.Services.AddExceptionHandler<ExceptionHandler>().AddProblemDetails();
 
+
+
 var app = builder.Build();
 
 
@@ -43,6 +49,7 @@ app.MapOpenApi();
 app.MapScalarApiReference();
 
 app.MapDefaultEndpoints();
+app.UseHttpsRedirection();  
 
 app.UseCors(x => x.
 AllowAnyHeader().
@@ -50,10 +57,17 @@ AllowCredentials().
 AllowAnyMethod().
 SetIsOriginAllowed(origin => true));
 
-app.MapControllers().RequireRateLimiting("fixed");
+app.MapControllers().RequireRateLimiting("fixed").RequireAuthorization() ;
+
+app.UseAuthentication();
+app.UseAuthorization();
 
 app.RegisterRoutes();
 
+app.UseResponseCompression();
+
 app.UseExceptionHandler();
+
+ExtensionsMiddleware.CreateFirstUser(app);
 
 app.Run();
